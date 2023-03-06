@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/github-issues-page-clone/static/css/main.915d47af.css",
+    "main.css": "/github-issues-page-clone/static/css/main.f6e5e7f4.css",
     "main.js": "/github-issues-page-clone/static/js/main.d2517403.js",
     "static/js/787.ea43ff72.chunk.js": "/github-issues-page-clone/static/js/787.ea43ff72.chunk.js",
+    "static/media/background-image1.png": "/github-issues-page-clone/static/media/background-image1.f42e5e810ad926dd4c40.png",
     "index.html": "/github-issues-page-clone/index.html",
-    "main.915d47af.css.map": "/github-issues-page-clone/static/css/main.915d47af.css.map",
+    "main.f6e5e7f4.css.map": "/github-issues-page-clone/static/css/main.f6e5e7f4.css.map",
     "main.d2517403.js.map": "/github-issues-page-clone/static/js/main.d2517403.js.map",
     "787.ea43ff72.chunk.js.map": "/github-issues-page-clone/static/js/787.ea43ff72.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.915d47af.css",
+    "static/css/main.f6e5e7f4.css",
     "static/js/main.d2517403.js"
   ]
 }
