@@ -1,0 +1,25 @@
+.card-wrapper {
+    background-color: rgb(228, 237, 234);
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid rgb(35, 31, 31);
+}
+
+.title {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.subtitle > span {
+    font-style: italic;
+    font-weight: bold;
+}

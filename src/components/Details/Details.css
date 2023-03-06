@@ -1,0 +1,56 @@
+.details-wrapper {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+.details-header {
+    display: flex;
+    flex-direction: row-reverse;
+    margin-bottom: 10px;
+}
+.details-header > button {
+  appearance: none;
+  background-color: #e3330f;
+  border: 1px solid rgba(27, 31, 35, .15);
+  border-radius: 6px;
+  box-shadow: rgba(27, 31, 35, .1) 0 1px 0;
+  box-sizing: border-box;
+  color: #fff;
+  font-weight: bolder;
+  cursor: pointer;
+  display: inline-block;
+  font-family: -apple-system,system-ui,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 20px;
+  padding: 6px 16px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
+.details-body {
+    display: flex;
+    background-color: rgb(228, 237, 234);
+    border-radius: 10px;
+    padding: 10px;
+    overflow-wrap: break-word;
+}
+
+div {
+    overflow: scroll;
+}
+
+div::-webkit-scrollbar {
+    display: none; /* chrome*/
+  }
+  
+.details-body > div {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }
